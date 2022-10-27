@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\Classes\obj\Debug\net6.0\ref\Classes.dll
