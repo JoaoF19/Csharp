@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.AssemblyInfo.cs
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\bin\Debug\net6.0\exercicio02_CalcMedia.exe
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\bin\Debug\net6.0\exercicio02_CalcMedia.deps.json
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\bin\Debug\net6.0\exercicio02_CalcMedia.runtimeconfig.json
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\bin\Debug\net6.0\exercicio02_CalcMedia.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\bin\Debug\net6.0\exercicio02_CalcMedia.pdb
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\refint\exercicio02_CalcMedia.dll
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.pdb
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\exercicio02_CalcMedia.genruntimeconfig.cache
+C:\Users\USER1\Desktop\repGit\Csharp\Csharp\exercicio02_CalcMedia\obj\Debug\net6.0\ref\exercicio02_CalcMedia.dll
