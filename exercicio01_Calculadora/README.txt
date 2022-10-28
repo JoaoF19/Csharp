@@ -1,0 +1,2 @@
+Calculadora
+Exercício:  Desenvolvimento de uma aplicação do tipo console do dotnet, onde o objetivo é simular uma calculadora simples que terá as operações de soma, subtração, multiplicação e divisão. 
